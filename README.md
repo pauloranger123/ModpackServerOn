@@ -8,3 +8,6 @@
 <h2>Endereço Servidor</h2>
  Porta:
 enx-cirion-65.enx.host:10033
+
+<h3>Regra:</h3>
+Proibido roubar baús de outros players.
